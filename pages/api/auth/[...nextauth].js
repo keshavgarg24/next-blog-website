@@ -6,7 +6,7 @@ export const authOptions = {
     providers: [
         GithubProvider({
             clientId: 'Ov23likqCmRjUZVVJxGT',
-            clientSecret: '62ac7853ebc76f331ec71992adf1c36f426b87dd'
+            clientSecret: '698af7512f41ffdc3d6ede310fff4bc4b8d20042'
         }),
         GoogleProvider({
             clientId: '45626204484-78tpaq80rvlo714hb1s77gu76b986ruf.apps.googleusercontent.com',
